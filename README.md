@@ -46,10 +46,10 @@
 
 ## 📫 Connect
 
-* **LinkedIn:** [linkedin.com/in/itzshreyansh](https://www.linkedin.com/in/shreyxvsh/)
+* **LinkedIn:** [linkedin.com/in/shreyxvsh](https://www.linkedin.com/in/shreyxvsh/)
 * **Email:** [k.shreyansh@iitg.ac.in](mailto:k.shreyansh@iitg.ac.in)
 * **Codeforces:** [shreyansh.kumar](https://codeforces.com/profile/shreyansh.kumar)
-* **CodeChef:** [itzshreyansh](https://www.codechef.com/users/shreyxvsh)
+* **CodeChef:** [itzshreyxvsh](https://www.codechef.com/users/shreyxvsh)
 
 ---
 <div align="center">
